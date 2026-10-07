@@ -1,4 +1,4 @@
-# NexusPortal
+# 2A_Stack Portal
 
 Customer Portal — self-service catalogue, quick ordering, orders, invoices, payments and support for wholesale buyers.
 
@@ -7,7 +7,7 @@ Part of the **Nexus suite** — five interconnected but independent workspaces, 
 - [NexusDistro](https://abraar05.github.io/NexusDistro/) — Wholesale ERP
 - [NexusPeople](https://abraar05.github.io/NexusPeople/) — People & Admin
 - [NexusLogistics](https://abraar05.github.io/NexusLogistics/) — Logistics Control Tower
-- [NexusPortal](https://abraar05.github.io/NexusPortal/) — Customer Portal
+- [2A_Stack Portal](https://abraar05.github.io/2A_Stack Portal/) — Customer Portal
 - [NexusCRM](https://abraar05.github.io/NexusCRM/) — CRM
 
 Each app links to the others via the **Nexus suite** section in its sidebar, but they are separate products, separately deployed, separately versioned.
@@ -35,8 +35,8 @@ npm run check      # syntax-check the JS
 
 ## Deploy (GitHub Pages)
 
-1. Create a new repo named `NexusPortal` and push this folder.
+1. Create a new repo named `2A_Stack Portal` and push this folder.
 2. In the repo: **Settings → Pages → Source: GitHub Actions**.
 3. The included `.github/workflows/pages.yml` deploys on every push to `main`.
 
-Site URL: `https://abraar05.github.io/NexusPortal/`
+Site URL: `https://abraar05.github.io/2A_Stack Portal/`

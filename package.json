@@ -1,7 +1,7 @@
 {
   "name": "nexusportal",
   "version": "1.0.0",
-  "description": "NexusPortal — Nexus suite workspace.",
+  "description": "2A_Stack Portal — Nexus suite workspace.",
   "private": true,
   "scripts": {
     "start": "python3 -m http.server 8804 --bind 127.0.0.1",
